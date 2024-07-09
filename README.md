@@ -32,3 +32,9 @@
     <td><a href="https://github.com/snovvcrash"><img src="https://profile-counter.glitch.me/unclesocks/count.svg" alt="Counter" /></a></td>
   </tr>
 </table>
+
+<details>
+  <summary>About UncleSocks</summary>
+  
+  I'm Tyrone Kevin Ilisan, a security operation centre (SOC) analyst who is passionate about everything information security, networks, and developing open-source tools that can hopefully help secure the cyber space. I have a Bachelor's degree in Electronics Engineering (Telecommunication Engineering focused) and a Master's degree in Information Security.
+</details>
