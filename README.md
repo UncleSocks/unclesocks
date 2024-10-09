@@ -35,5 +35,5 @@
 
 <details>
   <summary><strong>About UncleSocks</strong></summary>
-  I'm Tyrone Kevin Ilisan, a security operation centre (SOC) analyst who is passionate about everything information security (cybersecurity), networks, space, and developing open-source tools that can hopefully help secure the cyber space. I have a Bachelor's degree in Electronics Engineering (Telecommunication Engineering focused) and a Master's degree in Information Security.
+  I'm Tyrone Kevin Ilisan, an incident responder passionate about everything information security (cybersecurity), networks, space, and developing open-source tools that can hopefully help secure the cyberspace. I have a Bachelor's degree in Electronics Engineering (Telecommunication Engineering focused) and a Master's in Information Security.
 </details>
